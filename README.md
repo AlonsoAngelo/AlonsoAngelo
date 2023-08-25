@@ -3,7 +3,8 @@
 - 🔭 Buscando a 1° experiência como dev!...
 - 🌱 Estou Estudando: Java, CSS, HTML, JavaScript e Python ...
 - 😄 Pronomes: Ele/Dele ...
--  ![Alonso GitHub stats](https://github-readme-stats.vercel.app/api?username=AlonsoAngelo&show_icons=true&theme=dracula)
+
+![Alonso GitHub stats](https://github-readme-stats.vercel.app/api?username=AlonsoAngelo&show_icons=true&theme=dracula)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
