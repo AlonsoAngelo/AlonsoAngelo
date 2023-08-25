@@ -12,6 +12,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
           
 </div>
+![Alonso GitHub stats](https://github-readme-stats.vercel.app/api?username=AlonsoAngelo&show_icons=true&theme=transparent)
   
   ##
  
